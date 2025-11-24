@@ -1,0 +1,32 @@
+Microsoft Windows [Version 10.0.10240]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+C:\Users\KAGIMU MOSES>javac ShowMyNetWork.java
+
+C:\Users\KAGIMU MOSES>java ShowMyNetwork
+
+Network interfaces found on this computer:
+   lo :  /127.0.0.1  /0:0:0:0:0:0:0:1
+   eth0 :  /fe80:0:0:0:68cc:66b7:86cf:160%eth0
+   net0 :  /2001:0:2851:782c:9e:ec74:3a10:fa99  /fe80:0:0:0:9e:ec74:3a10:fa99%net0
+   eth1 :
+   net1 :  /fe80:0:0:0:0:5efe:c0a8:e078%net1
+   wlan0 :  /fe80:0:0:0:1cde:9069:2a81:ba4b%wlan0
+   net2 :
+   eth2 :  /fe80:0:0:0:39f9:5650:613f:9292%eth2
+   wlan1 :  /192.168.224.120  /fe80:0:0:0:99d7:bc65:6110:fbe0%wlan1
+   eth3 :
+   eth4 :
+   eth5 :
+   wlan2 :
+   wlan3 :
+   wlan4 :
+   wlan5 :
+   wlan6 :
+   wlan7 :
+   wlan8 :
+   wlan9 :
+   wlan10 :
+
+
+C:\Users\KAGIMU MOSES>
